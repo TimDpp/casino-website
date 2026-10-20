@@ -1,0 +1,6 @@
+{
+  "name": "The Velvet Ledger Casino & Back-Office",
+  "description": "Free-to-play high-stakes casino with $1,000 starter bankroll. Bust out and face a 1-week exile, or clock in at the 9-to-5 back-office minigame to work off your debt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
